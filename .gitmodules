@@ -1,0 +1,3 @@
+[submodule "Carthage/Checkouts/RKValueTransformers"]
+	path = Carthage/Checkouts/RKValueTransformers
+	url = https://github.com/arturgrigor/RKValueTransformers.git
